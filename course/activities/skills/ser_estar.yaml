@@ -125,34 +125,35 @@ Mini-dictionary:
       - प्रसन्न
       - मुबारक
 
-  Spanish:
+Hindi:
     - विद्यार्थी: student
     - मैं हूँ:
       - I am
       - I'm
     - में:
       - in
-      - at
+    - पर:
       - "on"
-    - escuela: school
-    - enfermera: nurse
-    - está: is
-    - enferma:
+      - at
+    - पाठशाला: school
+    - नर्स: nurse
+    - है: is
+    - बीमार:
       - ill
       - sick
-    - estamos:
+    - हम हैं:
       - we are
       - we're
-    - ciudad: city
-    - limpio: clean
-    - están:
+    - शहर: city
+    - स्वच्छ: clean
+    - वे हैं:
       - they are
       - they're
       - you are
       - you're
-    - listos: ready
-    - estáis:
+    - तैयार: ready
+    - आप हैं:
       - you are
       - you're
-    - contentas: happy
-    - médicas: doctors
+    - संतुष्ट: happy
+    - डॉक्टर: doctors
