@@ -1,0 +1,135 @@
+Skill:
+  Name: Animals
+  Id: 2
+  Thumbnails:
+    - dog1
+    - lion3
+    - cat3
+  
+New words:
+  - Word: कुत्ता
+    Synonyms:
+    Translation: dog
+    Also accepted:
+      - hound
+    Images:
+      - dog1
+      - dog2
+      - dog3
+
+  - Word: बिल्ली
+    Translation: cat
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: भालू
+    Translation: bear
+    Images:
+      - bear1
+      - bear2
+      - bear1
+
+  - Word: शेर
+    Translation: lion
+    Images:
+      - lion1
+      - lion2
+      - lion3
+
+  - Word: बत्तख
+    Translation: duck
+    Images:
+      - duck1
+      - duck2
+      - duck3
+
+  - Word: घोड़ा
+    Translation: horse
+    Images:
+      - horse1
+      - horse2
+      - horse3
+
+  - Word: बिल्ली
+    Translation: the cat
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: भालू
+    Translation: a bear
+    Images:
+      - bear1
+      - bear2
+      - bear1
+
+  - Word: शेर
+    Translation: a lion
+    Images:
+      - lion1
+      - lion2
+      - lion3
+
+  - Word: बत्तख
+    Translation: the duck
+    Images:
+      - duck1
+      - duck2
+      - duck3
+
+  - Word: घोड़ा
+    Translation: a horse
+    Images:
+      - horse1
+      - horse2
+      - horse3
+
+  - Word: कुत्ता
+    Translation: the dog
+    Also accepted:
+      - the hound
+    Images:
+      - dog1
+      - dog2
+      - dog3
+
+Phrases:
+  - Phrase: वह एक घोड़ा है
+    Translation: It's a horse
+
+  - Phrase: मैक्स एक कुत्ता है
+    Translation: Max is a dog
+
+  - Phrase: एक बत्तख और घोड़ा
+    Translation: A duck and a horse
+
+Mini-dictionary:
+  Spanish:
+    - एक: a/an (masc.)
+    - है: is
+    - मैक्स: Max (name)
+    - और: and
+    - अच्छा: good
+    - लाभ: profit
+
+
+  English:
+    - the:
+        - 
+        - 
+    - it's: वह
+    - a:
+      - एक
+    - Max: मैक्स (name)
+    - is: है
+    - and: और
+    - enjoy: आनंद लेना
+    - your:
+      - तुम्हारा
+      - आपका
+    - meal:
+      - भोजन
+    - bread: रोटी
