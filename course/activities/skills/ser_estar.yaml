@@ -55,35 +55,30 @@ Phrases:
     Alternative translations:
       - They're ready
 
-  - Phrase: Ellos son listos
+  - Phrase: वे बहुत बुद्धिमान हैं 
     Alternative versions:
-      - Son listos
+      - वे अत्यंत बुद्धिशाली है
+      - वे अत्यंत अक़्लमंद हैं 
+      - वे अत्यंत समझदार हैं
+      - वे अत्यंत अंशुल हैं
+      - वे अत्यंत चतुर हैं
+      - वे अत्यंत ज़ेहन हैं
+      - वे अत्यंत दानिशमंद हैं 
+      - वे अत्यंत दिमागदार हैं 
+      - वे अत्यंत दिमागी है
+      - वे अत्यंत बोधान हैं 
+      - वे अत्यंत होशियार हैं 
     Translation: They are smart
     Alternative translations:
       - They're smart
 
-  - Phrase: ¿Sois médicas?
+  - Phrase: आप डॉक्टरों हैं ?
     Alternative versions:
-      - ¿Vosotras sois médicas?
-      - ¿Sois médicos?
-      - ¿Vosotros sois médicos?
+      - आप वैद्यों हैं ?
+      - आप चिकित्सकों हैं ?
     Translation: Are you doctors?
 
-  - Phrase: ¿Estáis contentas?
-    Alternative versions:
-      - ¿Vosotras estáis contentas?
-      - ¿Vosotras estáis felices?
-      - ¿Vosotras estáis satisfechas?
-      - ¿Vosotras estáis alegres?
-      - ¿Estáis felices?
-      - ¿Estáis satisfechas?
-      - ¿Estáis alegres?
-      - ¿Estáis contentos?
-      - ¿Vosotros estáis contentos?
-      - ¿Vosotros estáis felices?
-      - ¿Vosotros estáis satisfechos?
-      - ¿Vosotros estáis alegres?
-      - ¿Estáis satisfechos?
+  - Phrase: आप संतुष्ट हैं ?
     Translation: Are you happy?
     Alternative translations:
       - Are you content?
@@ -106,28 +101,36 @@ Mini-dictionary:
       - साफ़
       - शुद्ध
     - ready:
-      - listo
-      - lista
-      - listos
-      - listas
-      - preparar
+      - उद्यत
+      - उन्मुख
+      - तैयार
+      - तत्पर 
+      - मुस्तैद 
+      - इच्छुक
+      - उपस्थित
     - smart:
-      - listo
-      - lista
-      - listos
-      - listas
+      - चतुर
+      - बुद्धिमान
+      - अक्लमंद
+      - अंशुल
+      - दिमागदार
+      - बुद्धिशाली
+      - बोधान
+      - समझदार
+      - होशियार
     - happy:
-      - contento
-      - contenta
-      - contentos
-      - contentas
+      - ख़ुशी
+      - आनंद
+      - संतुष्ट 
+      - प्रसन्न
+      - मुबारक
 
   Spanish:
-    - estudiante: student
-    - estoy:
+    - विद्यार्थी: student
+    - मैं हूँ:
       - I am
       - I'm
-    - en:
+    - में:
       - in
       - at
       - "on"
