@@ -1,0 +1,89 @@
+# This file contains generic meta-data about the course
+
+Course:
+  Language:
+    Name: Hindi
+    IETF BCP 47: hi
+  For speakers of:
+    Name: English
+    IETF BCP 47: en
+  License:
+    Name: Attribution-ShareAlike 4.0 International
+    Short name: CC BY-SA 4.0
+    Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+  Repository: https://github.com/LibreLingo/LibreLingo-HI-from-EN
+  Special characters:
+    - "अ"
+    - "आ"
+    - "इ"
+    - "ई"
+    - "उ"
+    - "ऊ"
+    - "ऋ"
+    - "ए"
+    - "ऐ"
+    - "ओ"
+    - "औ"
+    - "अं"
+    - "अः"
+    - "क"
+    - "ख"
+    - "ग"
+    - "घ"
+    - "ङ"
+    - "च"
+    - "छ"
+    - "ज"
+    - "झ"
+    - "ञ"
+    - "ट"
+    - "ठ"
+    - "ड"
+    - "ढ"
+    - "ण"
+    - "त"
+    - "थ"
+    - "द"
+    - "ध"
+    - "न"
+    - "प"
+    - "फ"
+    - "ब"
+    - "भ"
+    - "म"
+    - "य"
+    - "र"
+    - "ल"
+    - "व"
+    - "श"
+    - "स"
+    - "ह"
+    - "क्ष"
+    - "त्र"
+    - "ज्ञ"
+    - "श्र"
+    - " ं"
+    - " ः"
+    - " ि"
+    - " ी"
+    - " ु"
+    - " ू"
+    - " ृ"
+    - " े"
+    - " ै"
+    - " ँ"
+
+Modules:
+  - basics/
+  - introduction/
+  - activities/
+  - grammar/
+  - letters
+
+Settings:
+  Audio:
+    Enabled: True
+    TTS:
+      - Provider: Polly
+        Voice: Lucia
+        Engine: standard
