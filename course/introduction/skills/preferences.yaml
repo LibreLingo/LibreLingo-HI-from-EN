@@ -3,35 +3,35 @@ Skill:
   Id: 13
 
 New words:
-  - Word: café
+  - Word: कॉफी
     Translation: coffee
     Images:
       - coffee1
       - coffee2
       - coffee3
 
-  - Word: vino
+  - Word: मदिरा
     Translation: wine
     Images:
       - wine1
       - wine2
       - wine3
 
-  - Word: cerveza
+  - Word: शराब
     Translation: beer
     Images:
       - beer1
       - beer2
       - beer3
 
-  - Word: un café
+  - Word: एक कॉफी
     Translation: a coffee
     Images:
       - coffee1
       - coffee2
       - coffee3
 
-  - Word: el vino
+  - Word: मदिरा
     Translation: the wine
     Images:
       - wine1
@@ -41,46 +41,44 @@ New words:
 
 
 Phrases:
-  - Phrase: ¿Te gusta el café?
+  - Phrase: क्या तुम्हें कॉफी पसंद है ?
     Alternative versions:
-      - ¿A ti te gusta el café?
+      - क्या तुम्हें कॉफी पसंद होना ?
     Translation: Do you like coffee?
 
-  - Phrase: Me gusta la pasta
+  - Phrase: मैं पास्ता से पसंद है
     Alternative versions:
-      - A mí me gusta la pasta
+      - मैं पास्ता से पसंद होना      
     Translation: I like pasta
 
-  - Phrase: Me gusta la cerveza
+  - Phrase: मैं शराब से पसंद है
     Alternative versions:
-      - A mí me gusta la cerveza 
+      - मैं शराब से पसंद होना  
     Translation: I like beer
 
-  - Phrase: No me gusta el vino
+  - Phrase: मैं मदिरा से पसंद नहीं है
     Alternative versions:
-      - A mí no me gusta el vino
+      - मैं मदिरा से पसंद नहीं होना
     Translation: I don't like wine
 
-  - Phrase: Él no come carne
+  - Phrase: वह खाना नहीं खाता
     Alternative versions:
-      - No come carne
+      - वह भोजन नहीं खाता
     Translation: He doesn't eat meat
 
-  - Phrase: Yo bebo vino
-    Alternative versions:
-      - Bebo vino
+  - Phrase: मैं मदिरा पीता हूँ 
     Translation: I drink wine
 
-  - Phrase: Cecilia no come pasta
-    Translation: Cecilia doesn't eat pasta
+  - Phrase: डेनियल रोटी नहीं खाता
+    Translation: Daniel doesn't eat bread
 
-  - Phrase: ¡Una cerveza, por favor!
+  - Phrase: कृपया एक शराब बोतल
     Translation: A beer please!
 
-  - Phrase: ¿Te gusta el vino?
+  - Phrase: तुम मदिरा पसंद है ?
     Translation: Do you like wine?
 
-  - Phrase: ¿No te gusta el pan?
+  - Phrase: आप रोटी से पसंद नहीं हूँ ?
     Translation: Don't you like bread?
     Alternative translations:
       - You don't like bread?
@@ -89,15 +87,13 @@ Phrases:
 Mini-dictionary:
   English:
     - do:
-      - hace
-      - hago
-      - haces
-      - hacemos
-    - don't: "no"
-    - doesn't: "no"
+      - करना
+      - करता
+    - don't: "नहीं"
+    - doesn't: "नहीं है"
 
-  Spanish:
-    - una:
+  Hindi:
+    - एक:
       - a
       - one
 
