@@ -3,33 +3,29 @@ Skill:
   Id: 15
 
 New words:
-  - Word: ratón
+  - Word: चूहा 
     Translation: mouse
     Images:
       - mouse1
       - mouse2
       - mouse3
 
-  - Word: elefante
+  - Word: हाथी 
     Translation: elephant
     Images:
       - elephant1
       - elephant2
       - elephant3
 
-  - Word: parque
+  - Word: बगीचा
     Translation: park
     Images:
       - park1
       - park2
       - park3
 
-  - Word: el ratón
-    Translation: the mouse
-    Images:
-      - mouse1
-      - mouse2
-      - mouse3
+  - Word: नीला 
+    Translation: blue
 
   - Word:  el elefante
     Translation: the elephant
@@ -46,19 +42,18 @@ New words:
       - park3
 
 Phrases:
-  - Phrase: Cecilia es alta
-    Translation: Cecilia is tall
+  - Phrase: सेबस्टियन लंबा है
+    Translation: Sebastian is tall
 
-  - Phrase: Max es alto
-    Translation: Max is tall
+  - Phrase: डीओन लंबा है
+    Translation: Deon is tall
 
-  - Phrase: Yo soy viejo
+  - Phrase: मैं बूढ़ा है 
     Translation: I am old
 
-  - Phrase: Ella es vieja
+  - Phrase: वह बूढ़ा है 
     Alternative versions:
-      - Es vieja
-      - Es viejo
+      - वह वृद्ध है 
     Translation: She is old
 
   - Phrase: Él es viejo
